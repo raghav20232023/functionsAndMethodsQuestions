@@ -139,6 +139,36 @@ output:
 
 ![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/8ed07b45-e160-421d-a6a1-c52071613069)
 
+13. threeNumbersAverage:
+    A function to find the average of three numbers input by the user.
+
+code snippet:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/a3187cf9-3473-4902-b4c3-64195102ca7b)
+
+output:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/9fba8b00-f6f2-4945-a9fd-01f8d70cb52e)
+
+14. twoNumbersValueComparator:
+    A function which takes 2 numbers as input from the user and returns the greater of the two.
+
+code snippet:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/9b6875dc-dd41-41dc-b7aa-47944039a00c)
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/088a039f-08bf-4ae9-abf3-4ad44851cecd)
+
+output:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/0e7186fc-d54d-42f8-8baa-ea203817de79)
+
+end
+
+
+
+
+
+
 
 
 

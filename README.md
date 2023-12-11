@@ -73,6 +73,34 @@ output:
 
 ![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/5a33b29e-687f-4d2a-abc9-af73a3a6b512)
 
+7. fibonacciSeries:
+   A function to print fibonacci series of n terms where n is the number input by the user.
+
+code snippet:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/f14a6e40-010d-463d-a89f-67ae1c804845)
+
+output:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/69e410d4-352e-4497-99b2-bce6ab716517)
+
+8. greatestCommonDivisor:
+   A function that calculates greatest common divisor (GCD) or highest common factor (HCF) of two numbers input by the user.
+
+code snippet:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/9be8b0da-266e-45ca-8e3f-d984741c0ec7)
+
+output:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/361e4d8a-99d3-4eea-8294-18a654f4d1f2)
+
+
+
+
+
+
+
 
 
 

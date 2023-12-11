@@ -95,6 +95,61 @@ output:
 
 ![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/361e4d8a-99d3-4eea-8294-18a654f4d1f2)
 
+9. infiniteDoWhileLoop
+   A function that implements an infinite while loop.
+
+code snippet:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/8ed7b058-801f-4bc6-878f-7c89eb118a1a)
+
+output:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/658bc66e-6253-4331-abb9-18cf9e37f0cc)
+
+10. printGivenName:
+    A function to print a given name.
+
+code snippet:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/b4f8d18b-c5ad-4a0c-80e0-9dda9b265033)
+
+output:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/b70b6e11-8837-4f93-8313-764f55d8a558)
+
+11. productOfTwoNumbers:
+    A function to find the product of two given numbers input by the user.
+
+code snippet:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/d9a5c51f-9ffa-4977-959d-2fc65301c0c9)
+
+output:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/43e6d6ac-25e0-4571-9ad3-dcb4f832add7)
+
+12. sumOfOddNumbers:
+    A function to print the sum of all odd numbers from 1 to n and might include the number itself in sum if the number is odd aswell.
+
+code snippet:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/0383828e-dca0-46b3-816d-9c8cb65ac273)
+
+output:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/8ed07b45-e160-421d-a6a1-c52071613069)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

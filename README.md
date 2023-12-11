@@ -51,6 +51,34 @@ output:
 ![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/0dba2a92-e7be-45be-9d91-31dae6c29d64)
 ![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/b85f5af5-e24a-4935-8cf8-3903b39e57e2)
 
+5. exponentFunction:
+   Two numbers are entered by the user, x and n. A function that finds the value of x^n.
+
+code snippet:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/c061f12a-2c22-4733-8f6b-8b8da04c03f2)
+
+output:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/82e00afe-26fe-4383-b08c-d8a0e51d2378)
+
+6. factorialOfANumber
+   A function to print the factorial of a given number input by the user.
+
+code snippet:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/75268d9a-4009-4dc8-840c-e26cca7462da)
+
+output:
+
+![image](https://github.com/raghav20232023/functionsAndMethodsQuestions/assets/153320363/5a33b29e-687f-4d2a-abc9-af73a3a6b512)
+
+
+
+
+
+
+
 
 
 
